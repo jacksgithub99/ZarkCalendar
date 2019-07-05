@@ -1,6 +1,16 @@
 # ZarkCalendar
   iOS 仿企业微信打卡、打卡记录。 可当做一个通用的日历来用。
   
+  ![效果1](WechatIMG163.jpeg)
+  
+              效果1
+  
+  ------------------------------------------------------
+  
+  ![效果2](WechatIMG164.jpeg)
+  
+              效果2
+  
   PMMonthView  日历控件
   PMClockinRecordsFooterView 打卡信息控件
   
